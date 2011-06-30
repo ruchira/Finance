@@ -1,0 +1,6 @@
+This repository contains software for financial analysis.
+
+get_chain.py - This module contains the procedure get_chain() to retrieve the
+option chain for a given stock symbol and expiration date from Yahoo! Finance,
+parse it and write it to a CSV (comma-separated values) file.  No particular
+effort was made to make this scraper either robust or fast.
