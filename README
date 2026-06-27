@@ -1,3 +1,5 @@
+DEPRECATED: This code has not been tested in many years and is unlikely to work any more. 
+
 This repository contains software for financial analysis.
 
 get_chain.py - This module contains the procedure get_chain() to retrieve the
